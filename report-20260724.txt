@@ -1,0 +1,2 @@
+points-sim report — 2026-07-24T10:26:49.601388Z
+points_today: 2600.0
